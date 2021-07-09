@@ -80,8 +80,7 @@ plugins=(
 
 Herramienta que permite personalizar el diseño de la terminal.
 
-Instalo las fuentes de letras según se indican acá:
-https://github.com/romkatv/powerlevel10k/blob/master/README.md#meslo-nerd-font-patched-for-powerlevel10k
+Instalo las fuentes de letras según se indican en la [documentación](https://github.com/romkatv/powerlevel10k/blob/master/README.md#meslo-nerd-font-patched-for-powerlevel10k).
 
 Clono el repositorio:
 ```
@@ -139,18 +138,16 @@ set -g @plugin 'dracula/tmux'
 set -s default-terminal 'tmux-256color'
 ```
 
-Para instalarlo presionar: `ctrl + b + I`
+Para instalarlo presionar: `ctrl+b+I`
 
 Más [información](https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm).
 
 ## Editor de código: Visual Studio Code
 
-Instalación: https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+[Instalación DIRECTA](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
 
 ## Administrador de ambientes: Docker
 
-Instalación:
-https://docs.docker.com/engine/install/ubuntu/
+[Instalación](https://docs.docker.com/engine/install/ubuntu/)
 
-Post-instalación:
-https://docs.docker.com/engine/install/linux-postinstall/
+[Post-instalación](https://docs.docker.com/engine/install/linux-postinstall/)
