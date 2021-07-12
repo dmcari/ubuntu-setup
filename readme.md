@@ -23,7 +23,7 @@ sudo apt-get update && sudo apt-get upgrade
 
 ## Navegador: Mozilla Firefox
 
-Instalo navegador e instalo plugin Firefox Multi-Account Containers. Este plugin permite usar varias sesiones de las mismas páginas web dado que almacena las cookies en containers. Por ejemplo permite abrir varios usuarios de Github en la misma ventana de Firefox.
+Instalo navegador e instalo plugin [Firefox Multi-Account Containers](https://addons.mozilla.org/es/firefox/addon/multi-account-containers/). Este plugin permite usar varias sesiones de las mismas páginas web dado que almacena las cookies en containers. Por ejemplo permite abrir varios usuarios de Github en la misma ventana de Firefox.
 
 ## Shell: ZSH
 
